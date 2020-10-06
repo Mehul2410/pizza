@@ -25,6 +25,7 @@
   "homepage": "https://github.com/Mehul2410/pizza#readme",
   "dependencies": {
     "axios": "^0.20.0",
+    "bcrypt": "^5.0.0",
     "connect-mongo": "^3.2.0",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
